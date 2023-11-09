@@ -1,1 +1,3 @@
 This is my Git testing file
+
+Added new branch & doing the test phase
