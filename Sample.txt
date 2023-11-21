@@ -2,3 +2,4 @@ This is my Git testing file
 
 Added new branch & doing the test phase
 Testing in VS Code from locally to remote
+Adding Jenkins pipeline script
